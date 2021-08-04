@@ -280,3 +280,4 @@ if __name__ == '__main__':
 
         print(f"Thread pull order by nail index:\n{'-'.join([str(idx) for idx in pull_order])}")
 
+
